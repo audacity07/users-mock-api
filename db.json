@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "admin",
+      "email": "admin",
+      "password": "admin",
+      "packages": []
+    },
+    {
+      "id": 2,
+      "name": "testuser1",
+      "email": "testuser1@gmail.com",
+      "password": "tu1",
+      "packages": []
+    },
+    {
+      "id": 3,
+      "name": "testuser2",
+      "email": "testuser2@gmail.com",
+      "password": "tu2",
+      "packages": []
+    }
+  ]
+}
